@@ -8,6 +8,10 @@ Reality Drift is a systems-level condition in which institutions, technologies, 
 
 It emerges when optimization pressures and mediation layers intensify, preserving coherence and performance metrics while weakening contextual grounding. Systems remain operational, but their connection to underlying reality becomes progressively indirect.
 
+## Visual Explanation
+
+<img width="1536" height="1024" alt="Reality Drift Loop" src="https://github.com/user-attachments/assets/dcb4769f-cdd7-4fd4-ba37-b0a6be18df17" />
+
 ## Relationship to the Drift Principle
 
 Reality Drift describes the systemic condition produced when the Drift Principle intensifies within complex environments.
